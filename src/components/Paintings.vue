@@ -6,7 +6,7 @@
           <th>Azonsító</th>
           <th>Cím</th>
           <th>Év</th>
-          <th>Kiállítva(piros lap)</th>
+          <th>Kiállítva</th>
           <th>Műveletek</th>
         </tr>
       </thead>
